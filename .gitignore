@@ -1,0 +1,6 @@
+# Ignorar la carpeta node_modules
+node_modules/
+
+# Ignorar el archivo package-lock.json (o yarn.lock si estás usando Yarn)
+package-lock.json
+yarn.lock
